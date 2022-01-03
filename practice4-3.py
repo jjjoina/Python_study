@@ -1,3 +1,5 @@
+# 문자열처리함수
+
 python = "Python is Amazing"
 print(python.lower()) # 모든 문자가 소문자로 됨
 print(python.upper()) # 모든 문자가 대문자로 됨
