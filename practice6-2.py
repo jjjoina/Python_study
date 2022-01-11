@@ -16,7 +16,7 @@ for waiting_no in range(5):
 
 for waiting_no in range(1, 6): # 1, 2, 3, 4, 5
     print("대기번호 : {0}".format(waiting_no))
-# range(값1, 값2) : 갑1부터 갑2 미만의 정수를 하나씩 부여
+# range(값1, 값2) : 값1부터 값2 미만의 정수를 하나씩 부여
 
 starbucks = ["아이언맨", "토르", "아이엠 그루트"]
 for customer in starbucks:

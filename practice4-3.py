@@ -16,7 +16,7 @@ print(index)
 
 print(python.find("n"))
 print(python.find("Java"))
-print(python.index("Java"))
+# print(python.index("Java"))
 # find는 찾고자 하는 문자열이 없으면 -1을 출력하고 코드가 진행되지만 index는 에러가 발생한다.
 
 print()
